@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{BF81B6C5-8C63-4BA3-8800-0F0B95C5566A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/MobileAuthController.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="41" Column="74" />
+      <File FileName="Controllers/MobileAuthController.cs" Line="13" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample.Server.WebAuthenticator" expanded="True">
+            <Node name="Sample.Server.WebAuthenticator" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MobileAuthController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sample.Server.WebAuthenticator PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
